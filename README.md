@@ -1,4 +1,5 @@
 # Ex.No:5
+# DATE : 25/10/2025
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## Register Number: 212224110031
 ## AIM:
